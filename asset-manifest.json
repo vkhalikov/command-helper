@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vkhalikov/command-helper/static/css/main.c497a3be.chunk.css",
-    "main.js": "/vkhalikov/command-helper/static/js/main.8b32b74e.chunk.js",
-    "main.js.map": "/vkhalikov/command-helper/static/js/main.8b32b74e.chunk.js.map",
-    "runtime~main.js": "/vkhalikov/command-helper/static/js/runtime~main.cdff9964.js",
-    "runtime~main.js.map": "/vkhalikov/command-helper/static/js/runtime~main.cdff9964.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/vkhalikov/command-helper/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.002a12fb.chunk.js": "/vkhalikov/command-helper/static/js/2.002a12fb.chunk.js",
-    "static/js/2.002a12fb.chunk.js.map": "/vkhalikov/command-helper/static/js/2.002a12fb.chunk.js.map",
-    "index.html": "/vkhalikov/command-helper/index.html",
-    "precache-manifest.d1be0c9ed021741246478f9239fa59c9.js": "/vkhalikov/command-helper/precache-manifest.d1be0c9ed021741246478f9239fa59c9.js",
-    "service-worker.js": "/vkhalikov/command-helper/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/vkhalikov/command-helper/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.c497a3be.chunk.css.map": "/vkhalikov/command-helper/static/css/main.c497a3be.chunk.css.map"
+    "main.css": "/static/css/main.c497a3be.chunk.css",
+    "main.js": "/static/js/main.8b32b74e.chunk.js",
+    "main.js.map": "/static/js/main.8b32b74e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.261ef12e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.261ef12e.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.002a12fb.chunk.js": "/static/js/2.002a12fb.chunk.js",
+    "static/js/2.002a12fb.chunk.js.map": "/static/js/2.002a12fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.188aeb368faed3f5afbd6d41bc21e5ab.js": "/precache-manifest.188aeb368faed3f5afbd6d41bc21e5ab.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.c497a3be.chunk.css.map": "/static/css/main.c497a3be.chunk.css.map"
   }
 }
