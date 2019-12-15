@@ -39,7 +39,7 @@ function CardContainer(props) {
 	});
 
 	return (
-		<div className="container d-flex flex-row flex-wrap justify-content-between">
+		<div className="d-flex flex-row flex-wrap justify-content-between">
 		{cards}
 		</div> 
 	)

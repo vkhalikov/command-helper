@@ -26,7 +26,7 @@ class App extends Component {
   render() {
     return (
     <div className="t">
-    <h1 className="title-main text-center">Command Helper</h1>
+    <h1 className="title-main text-center mb-3">Command Helper</h1>
     <SearchBar selectValue={this.state.select} searchChange={this.handleSearchChange} selectChange={this.handleSelectChange} />
     <Scroll>
     <CardContainer searchFilter={this.state.search} selectFilter={this.state.select} />

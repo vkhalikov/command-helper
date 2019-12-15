@@ -1,10 +1,10 @@
 import React from 'react';
 
-let styleObj = {overflowY: 'scroll', height: '92vh', paddingLeft: '15px'};
+let styleObj = {overflowY: 'scroll', height: '92vh'};
 
 function Scroll(props) {
 	return (
-		<div style={styleObj}>
+		<div className="container" style={styleObj}>
 			{props.children}
 		</div>
 	)
